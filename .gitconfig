@@ -1,0 +1,7 @@
+[init]
+	defaultBranch = main
+[user]
+	name = Greg Brimble
+	email = developer@gregbrimble.com
+[push]
+	default = current
