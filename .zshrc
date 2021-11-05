@@ -103,3 +103,6 @@ source $ZSH/oh-my-zsh.sh
 # Dotfiles
 DOTFILES_DIRECTORY=$HOME/Developer/dotfiles
 alias dotfiles="git --git-dir=$DOTFILES_DIRECTORY --work-tree=$HOME"
+
+# z
+. /opt/homebrew/etc/profile.d/z.sh
