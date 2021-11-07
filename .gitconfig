@@ -3,5 +3,8 @@
 [user]
 	name = Greg Brimble
 	email = developer@gregbrimble.com
+	signingkey = 587E40F3F7768A71
 [push]
 	default = current
+[commit]
+	gpgsign = true
