@@ -23,6 +23,9 @@ defaults write com.googlecode.iterm2.plist LoadPrefsFromCustomFolder -bool true
 defaults write com.googlecode.iterm2.plist "NoSyncNeverRemindPrefsChangesLostForFile_selection" -int 2
 defaults write com.googlecode.iterm2.plist NoSyncNeverRemindPrefsChangesLostForFile -bool true
 
+# Volta
+volta install node yarn npm
+
 # --- GPG ---
 
 keybase pgp export | gpg --import
