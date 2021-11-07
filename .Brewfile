@@ -9,6 +9,7 @@ cask "keybase"
 cask "minecraft"
 cask "raycast"
 cask "spotify"
+cask "visual-studio-code"
 mas "Amphetamine", id: 937984704
 mas "Dashlane", id: 517914548
 mas "GarageBand", id: 682658836
