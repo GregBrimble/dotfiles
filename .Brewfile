@@ -1,6 +1,7 @@
 tap "homebrew/bundle"
 tap "homebrew/cask"
 tap "homebrew/core"
+brew "gnupg"
 brew "mas"
 brew "z"
 cask "iterm2"
